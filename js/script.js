@@ -1,7 +1,7 @@
 const icons = ['fa-cat', 'fa-dog', 'fa-crow', 'fa-frog', 'fa-horse', 'fa-hippo', 'fa-fish'];
 const iconContainer = document.querySelector('.iconContainer');
 const icon = iconContainer.getElementsByTagName('i')[0];
-const size = 140;
+const size = 110;
 iconContainer.style.width = size + 'px'; 
 iconContainer.style.height = size + 'px'; 
 
