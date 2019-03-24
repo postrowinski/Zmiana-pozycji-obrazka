@@ -1,1 +1,1 @@
-html,body{margin:0;position:relative;height:100vh}.icon{position:absolute;background-image:url("https://images.pexels.com/photos/1106452/pexels-photo-1106452.jpeg?cs=srgb&dl=africa-angry-animal-1106452.jpg&fm=jpg");background-size:contain;background-position:center}
+html,body{margin:0;position:relative;height:100vh}.iconContainer{font-size:140px;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;position:absolute}

@@ -4,9 +4,10 @@ html, body {
     height: 100vh;
 }
 
-.icon {
+.iconContainer {
+    font-size: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: absolute;
-    background-image: url('https://images.pexels.com/photos/1106452/pexels-photo-1106452.jpeg?cs=srgb&dl=africa-angry-animal-1106452.jpg&fm=jpg');
-    background-size: contain;
-    background-position: center;
 }
